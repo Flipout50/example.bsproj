@@ -1,5 +1,5 @@
 user = "mahaloz"
 version = 0x0
-last_push_time = 2022-12-20T22:00:26.973045Z
-last_push_artifact = 0x40071d
-last_push_artifact_type = "function"
+last_push_time = 2022-12-20T22:00:34.981532Z
+last_push_artifact = "mahaloz_struct"
+last_push_artifact_type = "struct"

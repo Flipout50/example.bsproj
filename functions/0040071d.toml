@@ -1,17 +1,9 @@
 [metadata]
 addr = 0x40071d
 size = 0xb8
-last_change = 2022-12-20T22:00:26.973045Z
+last_change = 2022-12-20T22:00:07.132060Z
 
 [header]
 last_change = 2022-12-20T22:00:07.132060Z
 name = "int"
-addr = 0x40071d
-
-[stack_vars.-0x28]
-last_change = 2022-12-20T22:00:26.973045Z
-offset = -40
-name = "special_var"
-type = "char[16]"
-size = 0x10
 addr = 0x40071d
