@@ -1,11 +1,11 @@
 [metadata]
 addr = 0x40071d
 size = 0xb8
-last_change = 2022-12-20T22:01:50.490056Z
+last_change = 2022-12-20T22:07:29.553049Z
 
 [header]
-last_change = 2022-12-20T22:00:07.132060Z
-name = "int"
+last_change = 2022-12-20T22:07:29.553049Z
+name = "mahaloz_main"
 addr = 0x40071d
 
 [stack_vars.-0x28]
