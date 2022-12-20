@@ -1,17 +1,17 @@
 [metadata]
 addr = 0x40071d
 size = 0xb8
-last_change = 2022-12-20T22:16:10.773556Z
+last_change = 2022-12-20T22:16:16.066597Z
 
 [header]
 last_change = 2022-12-20T22:16:00.160067Z
 name = "frq_main"
 addr = 0x40071d
 
-[stack_vars.-0x18]
-last_change = 2022-12-20T22:16:10.773556Z
-offset = -24
-name = "username"
+[stack_vars.-0x28]
+last_change = 2022-12-20T22:16:16.066597Z
+offset = -40
+name = "password"
 type = "char[16]"
 size = 0x10
 addr = 0x40071d
