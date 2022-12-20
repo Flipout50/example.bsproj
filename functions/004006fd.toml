@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x4006fd
 size = 0x20
-last_change = 2022-12-20T22:14:42.682367Z
+last_change = 2022-12-20T22:14:42.711697Z
+
+[header]
+last_change = 2022-12-20T22:14:42.711697Z
+name = "bad_exit"
+addr = 0x4006fd
