@@ -1,5 +1,5 @@
 user = "fish"
 version = 0x0
-last_push_time = 2022-12-20T22:22:36.187292Z
-last_push_artifact = 0x400664
-last_push_artifact_type = "function"
+last_push_time = 2022-12-20T22:22:46.372426Z
+last_push_artifact = 0x601048
+last_push_artifact_type = "global variable"
