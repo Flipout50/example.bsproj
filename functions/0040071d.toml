@@ -1,7 +1,7 @@
 [metadata]
 addr = 0x40071d
 size = 0xb8
-last_change = 2022-12-20T22:16:16.066597Z
+last_change = 2022-12-20T22:16:21.037266Z
 
 [header]
 last_change = 2022-12-20T22:16:00.160067Z
@@ -14,4 +14,12 @@ offset = -40
 name = "password"
 type = "char[16]"
 size = 0x10
+addr = 0x40071d
+
+[stack_vars.-0x2c]
+last_change = 2022-12-20T22:16:21.037266Z
+offset = -44
+name = "auth_val"
+type = "_BOOL4"
+size = 0x4
 addr = 0x40071d
