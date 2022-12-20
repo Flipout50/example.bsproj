@@ -1,5 +1,6 @@
 [mahaloz_enum]
-last_change = 2022-12-20T22:02:27.553991Z
+last_change = 2022-12-20T22:02:36.215571Z
 name = "mahaloz_enum"
 
 [mahaloz_enum.members]
+mahaloz_enum_0 = 0x0
