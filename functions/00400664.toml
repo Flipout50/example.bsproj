@@ -1,8 +1,9 @@
 [metadata]
 addr = 0x400664
-size = 0x0
+size = 0x89
 
 [header]
+last_change = 2022-12-20T22:23:28.502980Z
 name = "authenicate_user"
 addr = 0x400664
 type = "_BOOL8"
