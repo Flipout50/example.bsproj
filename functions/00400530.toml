@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x400530
+size = 0x0
+last_change = 2023-06-01T22:39:55.880270Z
+
+[header]
+name = "read"
+addr = 0x400530
+type = "typedef ssize_t __ssize_t"
