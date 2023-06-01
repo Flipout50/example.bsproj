@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x400870
+size = 0x0
+last_change = 2023-06-01T22:39:56.428926Z
+
+[header]
+name = "__libc_csu_fini"
+addr = 0x400870
+type = "undefined"
