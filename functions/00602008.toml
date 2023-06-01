@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x602008
+size = 0x0
+last_change = 2023-06-01T22:39:56.590151Z
+
+[header]
+name = "printf"
+addr = 0x602008
+type = "int"
