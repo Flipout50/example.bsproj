@@ -1,9 +1,9 @@
 [metadata]
 addr = 0x400500
 size = 0x0
-last_change = 2023-06-01T06:35:21.039976Z
+last_change = 2023-06-01T21:17:48.956603Z
 
 [header]
-name = "test_func_oh_yeah"
+name = "name_changed"
 addr = 0x400500
-type = "int"
+type = "double"
