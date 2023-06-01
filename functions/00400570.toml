@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x400570
+size = 0x0
+last_change = 2023-06-01T22:39:56.041638Z
+
+[header]
+name = "exit"
+addr = 0x400570
+type = "void"
