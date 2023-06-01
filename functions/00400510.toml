@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x400510
+size = 0x0
+last_change = 2023-06-01T22:39:55.794709Z
+
+[header]
+name = "puts"
+addr = 0x400510
+type = "int"
