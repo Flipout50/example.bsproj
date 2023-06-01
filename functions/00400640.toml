@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x400640
+size = 0x0
+last_change = 2023-06-01T22:39:56.196155Z
+
+[header]
+name = "frame_dummy"
+addr = 0x400640
+type = "undefined"
