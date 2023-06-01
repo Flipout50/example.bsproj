@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x400550
+size = 0x0
+last_change = 2023-06-01T22:39:55.964866Z
+
+[header]
+name = "strcmp"
+addr = 0x400550
+type = "int"
