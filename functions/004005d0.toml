@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x4005d0
+size = 0x0
+last_change = 2023-06-01T22:39:56.160037Z
+
+[header]
+name = "__do_global_dtors_aux"
+addr = 0x4005d0
+type = "undefined"
