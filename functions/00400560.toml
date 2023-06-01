@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x400560
+size = 0x0
+last_change = 2023-06-01T22:39:56.003568Z
+
+[header]
+name = "open"
+addr = 0x400560
+type = "int"
