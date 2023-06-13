@@ -1,9 +1,58 @@
 [metadata]
 addr = 0x40071d
-size = 0x0
-last_change = 2023-06-01T22:39:56.353667Z
+size = 0xb8
+last_change = 2023-06-13T19:43:09.734815Z
 
 [header]
 name = "main"
 addr = 0x40071d
 type = "undefined"
+
+[stack_vars.-0x24]
+offset = -24
+name = "local_18"
+type = "undefined1"
+size = 0x1
+addr = 0x40071d
+
+[stack_vars.-0x40]
+offset = -40
+name = "local_28"
+type = "undefined1"
+size = 0x1
+addr = 0x40071d
+
+[stack_vars.-0x72]
+offset = -72
+name = "local_48"
+type = "undefined8"
+size = 0x8
+addr = 0x40071d
+
+[stack_vars.-0x44]
+offset = -44
+name = "local_2c"
+type = "undefined4"
+size = 0x4
+addr = 0x40071d
+
+[stack_vars.-0x60]
+offset = -60
+name = "local_3c"
+type = "undefined4"
+size = 0x4
+addr = 0x40071d
+
+[stack_vars.-0x16]
+offset = -16
+name = "test_stack_var"
+type = "undefined1"
+size = 0x1
+addr = 0x40071d
+
+[stack_vars.-0x32]
+offset = -32
+name = "local_20"
+type = "undefined1"
+size = 0x1
+addr = 0x40071d
