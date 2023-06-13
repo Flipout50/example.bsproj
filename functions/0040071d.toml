@@ -1,7 +1,7 @@
 [metadata]
 addr = 0x40071d
 size = 0xb8
-last_change = 2023-06-13T19:43:39.756080Z
+last_change = 2023-06-13T19:47:24.903789Z
 
 [header]
 name = "main"
@@ -10,9 +10,9 @@ type = "undefined"
 
 [stack_vars.-0x24]
 offset = -24
-name = "local_18"
-type = "undefined1"
-size = 0x1
+name = "another_stack_var"
+type = "undefined8"
+size = 0x8
 addr = 0x40071d
 
 [stack_vars.-0x40]
