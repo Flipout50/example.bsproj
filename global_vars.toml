@@ -1,4 +1,6 @@
 [0x600e40]
+last_change = 2023-06-20T07:43:47.199529Z
 addr = 0x600e40
-name = "starter_gbar"
+name = "__TEST_GLOBAL"
+type = "undefined"
 size = 0x8
