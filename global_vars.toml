@@ -1,3 +1,10 @@
+[0x400420]
+last_change = 2023-06-20T07:47:46.099559Z
+addr = 0x400420
+name = "__DT_RELA"
+type = "Elf64_Rela[1]"
+size = 0x18
+
 [0x600e40]
 last_change = 2023-06-20T07:43:47.199529Z
 addr = 0x600e40
