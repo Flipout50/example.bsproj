@@ -5,6 +5,13 @@ name = "__DT_RELA"
 type = "Elf64_Rela[1]"
 size = 0x18
 
+[0x4008e0]
+last_change = 2023-06-20T07:47:46.172790Z
+addr = 0x4008e0
+name = "s_Welcome_to_the_admin_console,_tr_004008e0"
+type = "string"
+size = 0x2c
+
 [0x600e40]
 last_change = 2023-06-20T07:43:47.199529Z
 addr = 0x600e40
