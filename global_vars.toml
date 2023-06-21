@@ -12,6 +12,13 @@ name = "s_Welcome_to_the_admin_console,_tr_004008e0"
 type = "string"
 size = 0x2c
 
+[0x40090c]
+last_change = 2023-06-21T06:04:00.158512Z
+addr = 0x40090c
+name = "s_Go_away!_0040090c"
+type = "string"
+size = 0x9
+
 [0x600e40]
 last_change = 2023-06-20T07:43:47.199529Z
 addr = 0x600e40
