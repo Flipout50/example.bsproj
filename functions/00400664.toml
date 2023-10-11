@@ -1,21 +1,29 @@
 [metadata]
 addr = 0x400664
 size = 0x89
+last_change = 2023-10-11T23:43:13.034400Z
 
 [header]
-last_change = 2022-12-20T22:23:28.502980Z
-name = "authenicate_user"
+name = "authenticate_function"
 addr = 0x400664
-type = "_BOOL8"
 
-[header.args.0]
-offset = 0x0
-name = "controlled_file"
-type = "const char *"
+[stack_vars.-0x18]
+offset = -24
+name = "local_18"
+type = "char[8]"
 size = 0x8
+addr = 0x400664
 
-[header.args.1]
-offset = 0x1
-name = "a2"
-type = "const char *"
-size = 0x8
+[stack_vars.-0x10]
+offset = -16
+name = "local_10"
+type = "undefined"
+size = 0x1
+addr = 0x400664
+
+[stack_vars.-0xc]
+offset = -12
+name = "local_c"
+type = "int"
+size = 0x4
+addr = 0x400664
