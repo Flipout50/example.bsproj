@@ -1,7 +1,7 @@
 [metadata]
 addr = 0x400664
 size = 0x89
-last_change = 2023-10-11T23:43:13.034400Z
+last_change = 2023-10-12T00:38:55.932407Z
 
 [header]
 name = "authenticate_function"
@@ -16,7 +16,7 @@ addr = 0x400664
 
 [stack_vars.-0x10]
 offset = -16
-name = "local_10"
+name = "not_local_10"
 type = "undefined"
 size = 0x1
 addr = 0x400664
