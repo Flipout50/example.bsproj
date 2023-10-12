@@ -1,9 +1,8 @@
 [metadata]
 addr = 0x4006ed
-size = 0x0
-last_change = 2023-06-01T22:39:56.270031Z
+size = 0x10
+last_change = 2023-10-12T00:34:15.405572Z
 
 [header]
 name = "accepted"
 addr = 0x4006ed
-type = "undefined"
