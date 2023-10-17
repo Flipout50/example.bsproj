@@ -13,10 +13,9 @@ type = "string"
 size = 0x2c
 
 [0x600e40]
-last_change = 2023-06-20T07:43:47.199529Z
+last_change = 2023-10-17T01:23:00.654396Z
 addr = 0x600e40
-name = "__TEST_GLOBAL"
-type = "undefined"
+name = "__TEST_GLOBAL_new"
 size = 0x8
 
 [0x601048]
