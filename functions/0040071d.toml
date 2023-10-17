@@ -63,3 +63,10 @@ name = "local_2c"
 type = "int"
 size = 0x4
 addr = 0x40071d
+
+[stack_vars.-0x20]
+offset = -32
+name = "test_int"
+type = "int"
+size = 0x4
+addr = 0x40071d
