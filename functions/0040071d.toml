@@ -49,3 +49,10 @@ name = "another_stack_var"
 type = "undefined[8]"
 size = 0x8
 addr = 0x40071d
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "undefined[8]"
+size = 0x8
+addr = 0x40071d
