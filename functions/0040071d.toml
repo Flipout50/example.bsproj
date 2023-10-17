@@ -56,3 +56,10 @@ name = "local_28"
 type = "undefined[8]"
 size = 0x8
 addr = 0x40071d
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x40071d
