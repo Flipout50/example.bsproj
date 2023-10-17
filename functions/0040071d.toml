@@ -42,3 +42,10 @@ name = "test_stack_var"
 type = "undefined"
 size = 0x1
 addr = 0x40071d
+
+[stack_vars.-0x18]
+offset = -24
+name = "another_stack_var"
+type = "undefined[8]"
+size = 0x8
+addr = 0x40071d
