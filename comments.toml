@@ -3,3 +3,9 @@ addr = 0x400664
 func_addr = 0x400664
 comment = "This function is the main function that \ndoes authentication for the user.\nYou only need to know the sneaky_password! \n"
 decompiled = false
+
+[0x40071d]
+addr = 0x40071d
+func_addr = 0x40071d
+comment = "***\nThis is a large function comment.\nThanks for using BinSync!\n\n<3 mahaloz\n***\n"
+decompiled = false
