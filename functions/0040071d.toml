@@ -1,67 +1,38 @@
 [metadata]
 addr = 0x40071d
 size = 0xb8
+last_change = 2023-10-17T23:41:25.215372Z
 
 [header]
 name = "main"
 addr = 0x40071d
-type = "undefined"
 
-[stack_vars.-0x24]
+[stack_vars.-0x18]
 offset = -24
-name = "another_stack_var"
+name = "another_stack_var2"
 type = "undefined[8]"
 size = 0x8
 addr = 0x40071d
 
-[stack_vars.-0x40]
-offset = -40
-name = "local_28"
-type = "undefined[8]"
-size = 0x8
-addr = 0x40071d
-
-[stack_vars.-0x44]
+[stack_vars.-0x2c]
 offset = -44
 name = "local_2c"
 type = "int"
 size = 0x4
 addr = 0x40071d
 
-[stack_vars.-0x32]
+[stack_vars.-0x28]
+offset = -40
+name = "special_var"
+type = "undefined[8]"
+size = 0x8
+addr = 0x40071d
+
+[stack_vars.-0x20]
 offset = -32
 name = "test_int"
 type = "int"
 size = 0x4
-addr = 0x40071d
-
-[stack_vars.-0x16]
-offset = -16
-name = "test_stack_var"
-type = "undefined"
-size = 0x1
-addr = 0x40071d
-
-[stack_vars.-0x28]
-offset = -40
-name = "local_28"
-type = "undefined[8]"
-size = 0x8
-addr = 0x40071d
-
-[stack_vars.-0x2c]
-last_change = 2022-12-20T22:08:19.269699Z
-offset = -44
-name = "ret_val"
-type = "int"
-size = 0x4
-addr = 0x40071d
-
-[stack_vars.-0x18]
-offset = -24
-name = "another_stack_var"
-type = "undefined[8]"
-size = 0x8
 addr = 0x40071d
 
 [stack_vars.-0x10]
