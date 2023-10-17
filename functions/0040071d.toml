@@ -59,7 +59,7 @@ addr = 0x40071d
 
 [stack_vars.-0x2c]
 offset = -44
-name = "local_2c"
+name = "ret_val"
 type = "int"
 size = 0x4
 addr = 0x40071d
