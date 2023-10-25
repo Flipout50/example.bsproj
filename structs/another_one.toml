@@ -1,7 +1,7 @@
 [metadata]
 name = "another_one"
 size = 0xd
-last_change = 2023-10-25T18:37:12.353669Z
+last_change = 2023-10-25T22:52:13.973105Z
 
 [members.0x0]
 name = "integer"
@@ -10,13 +10,13 @@ type = "int"
 size = 0x4
 
 [members.0x4]
-name = "char"
+name = "field_4"
 offset = 0x4
 type = "char"
 size = 0x1
 
 [members.0x5]
-name = "long num"
+name = "field_5"
 offset = 0x5
 type = "longlong"
 size = 0x8
