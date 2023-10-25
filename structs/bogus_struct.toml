@@ -1,0 +1,22 @@
+[metadata]
+name = "bogus_struct"
+size = 0x14
+last_change = 2023-10-25T17:02:30.968538Z
+
+[members.0x0]
+name = "myInt"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "myChar*"
+offset = 0x4
+type = "char *"
+size = 0x8
+
+[members.0xc]
+name = "myDouble"
+offset = 0xc
+type = "double"
+size = 0x8
