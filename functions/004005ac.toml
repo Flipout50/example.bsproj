@@ -1,9 +1,12 @@
-[metadata]
+last_change = 2023-06-01T22:39:56.118624Z
 addr = 0x4005ac
 size = 0x0
-last_change = 2023-06-01T22:39:56.118624Z
+name = "call_gmon_start"
+type = "undefined"
 
 [header]
 name = "call_gmon_start"
 addr = 0x4005ac
 type = "undefined"
+
+[header.args]

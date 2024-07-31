@@ -1,11 +1,13 @@
-[metadata]
+last_change = 2023-10-17T23:45:24.298444Z
 addr = 0x40071d
 size = 0xb8
-last_change = 2023-10-17T23:45:24.298444Z
+name = "main"
 
 [header]
 name = "main"
 addr = 0x40071d
+
+[header.args]
 
 [stack_vars.-0x18]
 offset = -24

@@ -1,8 +1,10 @@
-[metadata]
+last_change = 2023-10-12T00:34:15.405572Z
 addr = 0x4006ed
 size = 0x10
-last_change = 2023-10-12T00:34:15.405572Z
+name = "accepted"
 
 [header]
 name = "accepted"
 addr = 0x4006ed
+
+[header.args]

@@ -1,7 +1,6 @@
-[metadata]
+last_change = 2023-10-25T17:02:30.968538Z
 name = "bogus_struct"
 size = 0x14
-last_change = 2023-10-25T17:02:30.968538Z
 
 [members.0x0]
 name = "myInt"

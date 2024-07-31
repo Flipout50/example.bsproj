@@ -1,11 +1,13 @@
-[metadata]
+last_change = 2023-10-12T00:38:55.932407Z
 addr = 0x400664
 size = 0x89
-last_change = 2023-10-12T00:38:55.932407Z
+name = "authenticate_function"
 
 [header]
 name = "authenticate_function"
 addr = 0x400664
+
+[header.args]
 
 [stack_vars.-0x18]
 offset = -24

@@ -1,9 +1,12 @@
-[metadata]
+last_change = 2023-06-01T22:39:56.504480Z
 addr = 0x4008b8
 size = 0x0
-last_change = 2023-06-01T22:39:56.504480Z
+name = "_fini"
+type = "undefined"
 
 [header]
 name = "_fini"
 addr = 0x4008b8
 type = "undefined"
+
+[header.args]

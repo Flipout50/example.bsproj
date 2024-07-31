@@ -1,8 +1,10 @@
-[metadata]
+last_change = 2023-06-29T19:27:22.500091Z
 addr = 0x400500
 size = 0xc
-last_change = 2023-06-29T19:27:22.500091Z
+name = "renamed_func"
 
 [header]
 name = "renamed_func"
 addr = 0x400500
+
+[header.args]

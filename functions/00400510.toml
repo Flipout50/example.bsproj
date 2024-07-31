@@ -1,9 +1,12 @@
-[metadata]
+last_change = 2023-06-01T22:39:55.794709Z
 addr = 0x400510
 size = 0x0
-last_change = 2023-06-01T22:39:55.794709Z
+name = "puts"
+type = "int"
 
 [header]
 name = "puts"
 addr = 0x400510
 type = "int"
+
+[header.args]

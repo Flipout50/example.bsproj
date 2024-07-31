@@ -1,9 +1,12 @@
-[metadata]
+last_change = 2023-06-01T22:39:55.838553Z
 addr = 0x400520
 size = 0x0
-last_change = 2023-06-01T22:39:55.838553Z
+name = "printf"
+type = "int"
 
 [header]
 name = "printf"
 addr = 0x400520
 type = "int"
+
+[header.args]

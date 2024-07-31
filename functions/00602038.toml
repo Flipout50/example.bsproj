@@ -1,9 +1,12 @@
-[metadata]
+last_change = 2023-06-01T22:39:56.848350Z
 addr = 0x602038
 size = 0x0
-last_change = 2023-06-01T22:39:56.848350Z
+name = "exit"
+type = "void"
 
 [header]
 name = "exit"
 addr = 0x602038
 type = "void"
+
+[header.args]

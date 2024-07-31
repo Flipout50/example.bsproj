@@ -1,9 +1,12 @@
-[metadata]
+last_change = 2023-06-01T22:39:55.924230Z
 addr = 0x400540
 size = 0x0
-last_change = 2023-06-01T22:39:55.924230Z
+name = "__libc_start_main"
+type = "undefined"
 
 [header]
 name = "__libc_start_main"
 addr = 0x400540
 type = "undefined"
+
+[header.args]

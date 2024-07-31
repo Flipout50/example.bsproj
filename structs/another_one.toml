@@ -1,7 +1,6 @@
-[metadata]
+last_change = 2023-10-25T22:52:13.973105Z
 name = "another_one"
 size = 0xd
-last_change = 2023-10-25T22:52:13.973105Z
 
 [members.0x0]
 name = "integer"

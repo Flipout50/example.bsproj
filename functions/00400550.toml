@@ -1,9 +1,12 @@
-[metadata]
+last_change = 2023-06-01T22:39:55.964866Z
 addr = 0x400550
 size = 0x0
-last_change = 2023-06-01T22:39:55.964866Z
+name = "strcmp"
+type = "int"
 
 [header]
 name = "strcmp"
 addr = 0x400550
 type = "int"
+
+[header.args]
