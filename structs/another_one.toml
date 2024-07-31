@@ -1,9 +1,5 @@
-last_change = 2024-07-31T23:06:00.008989Z
+last_change = 2024-07-31T23:06:00.012240Z
 name = "another_one"
-size = 0x4
+size = 0x0
 
-[members.0x0]
-name = "integer"
-offset = 0x0
-type = "int"
-size = 0x4
+[members]
