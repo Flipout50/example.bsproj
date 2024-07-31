@@ -1,5 +1,15 @@
-last_change = 2024-07-31T23:06:00.004130Z
+last_change = 2024-07-31T23:06:00.005815Z
 name = "another_one"
-size = -1
+size = 0x5
 
-[members]
+[members.0x0]
+name = "integer"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "field_4"
+offset = 0x4
+type = "char"
+size = 0x1
