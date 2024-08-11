@@ -1,6 +1,6 @@
-last_change = 2024-08-11T18:11:25.525765Z
+last_change = 2024-08-11T18:11:28.163467Z
 name = "mahaloz_struct"
-size = 0x5
+size = 0x6
 
 [members.0x0]
 name = "field_0"
@@ -12,4 +12,4 @@ size = 0x4
 name = "field_4"
 offset = 0x4
 type = ""
-size = 0x1
+size = 0x2
