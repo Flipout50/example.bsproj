@@ -1,15 +1,9 @@
-last_change = 2024-08-11T18:11:51.141938Z
+last_change = 2024-08-11T18:12:21.700435Z
 name = "mahaloz_struct"
-size = 0x10
+size = 0x8
 
 [members.0x0]
 name = "int1"
 offset = 0x0
-type = ""
-size = 0x8
-
-[members.0x8]
-name = "int2"
-offset = 0x8
 type = ""
 size = 0x8
