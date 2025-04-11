@@ -3,6 +3,7 @@ addr = 0x4004e0
 size = 0x0
 name = "_init"
 type = "int"
+artifact_type = "Function"
 
 [header]
 name = "_init"

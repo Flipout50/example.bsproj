@@ -3,6 +3,7 @@ addr = 0x400880
 size = 0x0
 name = "__do_global_ctors_aux"
 type = "undefined"
+artifact_type = "Function"
 
 [header]
 name = "__do_global_ctors_aux"

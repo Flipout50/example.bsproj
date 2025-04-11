@@ -3,6 +3,7 @@ addr = 0x4006fd
 size = 0x0
 name = "rejected"
 type = "undefined"
+artifact_type = "Function"
 
 [header]
 name = "rejected"

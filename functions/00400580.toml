@@ -3,6 +3,7 @@ addr = 0x400580
 size = 0x0
 name = "_start"
 type = "undefined"
+artifact_type = "Function"
 
 [header]
 name = "_start"

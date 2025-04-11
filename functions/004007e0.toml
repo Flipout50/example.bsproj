@@ -3,6 +3,7 @@ addr = 0x4007e0
 size = 0x0
 name = "__libc_csu_init"
 type = "undefined"
+artifact_type = "Function"
 
 [header]
 name = "__libc_csu_init"

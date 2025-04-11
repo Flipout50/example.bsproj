@@ -3,6 +3,7 @@ addr = 0x4008b8
 size = 0x0
 name = "_fini"
 type = "undefined"
+artifact_type = "Function"
 
 [header]
 name = "_fini"

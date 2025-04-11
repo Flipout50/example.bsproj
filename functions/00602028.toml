@@ -3,6 +3,7 @@ addr = 0x602028
 size = 0x0
 name = "__gmon_start__"
 type = "undefined"
+artifact_type = "Function"
 
 [header]
 name = "__gmon_start__"

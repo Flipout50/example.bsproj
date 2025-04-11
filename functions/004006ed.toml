@@ -2,6 +2,7 @@ last_change = 2023-10-12T00:34:15.405572Z
 addr = 0x4006ed
 size = 0x10
 name = "accepted"
+artifact_type = "Function"
 
 [header]
 name = "accepted"

@@ -2,6 +2,7 @@ last_change = 2023-10-12T00:38:55.932407Z
 addr = 0x400664
 size = 0x89
 name = "authenticate_function"
+artifact_type = "Function"
 
 [header]
 name = "authenticate_function"

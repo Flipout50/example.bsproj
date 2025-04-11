@@ -3,6 +3,7 @@ addr = 0x400520
 size = 0x0
 name = "printf"
 type = "int"
+artifact_type = "Function"
 
 [header]
 name = "printf"

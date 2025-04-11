@@ -3,6 +3,7 @@ addr = 0x400540
 size = 0x0
 name = "__libc_start_main"
 type = "undefined"
+artifact_type = "Function"
 
 [header]
 name = "__libc_start_main"

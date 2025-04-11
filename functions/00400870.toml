@@ -3,6 +3,7 @@ addr = 0x400870
 size = 0x0
 name = "__libc_csu_fini"
 type = "undefined"
+artifact_type = "Function"
 
 [header]
 name = "__libc_csu_fini"

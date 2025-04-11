@@ -3,6 +3,7 @@ addr = 0x400640
 size = 0x0
 name = "frame_dummy"
 type = "undefined"
+artifact_type = "Function"
 
 [header]
 name = "frame_dummy"

@@ -3,6 +3,7 @@ addr = 0x400530
 size = 0x0
 name = "read"
 type = "typedef ssize_t __ssize_t"
+artifact_type = "Function"
 
 [header]
 name = "read"

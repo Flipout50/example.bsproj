@@ -3,6 +3,7 @@ addr = 0x602000
 size = 0x0
 name = "puts"
 type = "int"
+artifact_type = "Function"
 
 [header]
 name = "puts"

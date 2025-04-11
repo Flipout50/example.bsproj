@@ -3,6 +3,7 @@ addr = 0x602038
 size = 0x0
 name = "exit"
 type = "void"
+artifact_type = "Function"
 
 [header]
 name = "exit"

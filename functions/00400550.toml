@@ -3,6 +3,7 @@ addr = 0x400550
 size = 0x0
 name = "strcmp"
 type = "int"
+artifact_type = "Function"
 
 [header]
 name = "strcmp"
