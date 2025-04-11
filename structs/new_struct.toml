@@ -3,8 +3,4 @@ name = "new_struct"
 size = 0x4
 artifact_type = "Struct"
 
-[members.0x0]
-name = "a"
-offset = 0x0
-type = "int"
-size = 0x4
+[members]
