@@ -1,0 +1,10 @@
+last_change = 2025-04-11T00:58:34.190062Z
+name = "new_struct"
+size = 0x4
+artifact_type = "Struct"
+
+[members.0x0]
+name = "a"
+offset = 0x0
+type = "int"
+size = 0x4
