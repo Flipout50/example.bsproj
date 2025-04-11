@@ -1,0 +1,16 @@
+last_change = 2025-04-11T00:58:34.192867Z
+name = "my_otherstruct"
+size = 0x14
+artifact_type = "Struct"
+
+[members.0x0]
+name = "digest"
+offset = 0x0
+type = "char[16]"
+size = 0x10
+
+[members.0x10]
+name = "a"
+offset = 0x10
+type = "new_struct"
+size = 0x4
