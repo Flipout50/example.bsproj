@@ -29,3 +29,10 @@ last_change = 2023-10-17T01:22:56.721467Z
 addr = 0x601048
 name = "sneaky_mcgee"
 size = 0x8
+
+[0x200e38]
+last_change = 2025-08-22T18:17:11.788013Z
+addr = 0x200e38
+name = "qword_600E38"
+type = "long long[]"
+size = 0x8
