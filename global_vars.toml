@@ -36,3 +36,8 @@ addr = 0x200e38
 name = "qword_600E38"
 type = "long long[]"
 size = 0x8
+
+[0x601058]
+addr = 0x601058
+name = "some_global_var"
+size = 0x8
