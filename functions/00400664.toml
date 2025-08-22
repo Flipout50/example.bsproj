@@ -2,13 +2,13 @@ last_change = 2023-10-12T00:38:55.932407Z
 addr = 0x400664
 size = 0x89
 name = "authenticate_function"
+type = "_BOOL8"
 artifact_type = "Function"
 
 [header]
 name = "authenticate_function"
 addr = 0x400664
-
-[header.args]
+type = "_BOOL8"
 
 [stack_vars.-0x18]
 offset = -24
@@ -30,3 +30,15 @@ name = "local_c"
 type = "int"
 size = 0x4
 addr = 0x400664
+
+[header.args.0x0]
+offset = 0x0
+name = "controlled_file"
+type = "const char *"
+size = 0x8
+
+[header.args.0x1]
+offset = 0x1
+name = "a2"
+type = "const char *"
+size = 0x8
